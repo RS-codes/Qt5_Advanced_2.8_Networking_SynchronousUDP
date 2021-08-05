@@ -1,3 +1,5 @@
 # Qt5_Advanced_2.8_Networking_SynchronousUDP
 
-#SourceCode to be added soon
+#Under Networking, synchronousUDP discussed and
+
+#SourceCode added 
